@@ -32,8 +32,7 @@
 						<a class="dropdown-item" href="/WebMovie/manager/editTL/index">Thể loại</a>
 						<a class="dropdown-item" href="/WebMovie/manager/editPTH/index">Tổng hợp phim</a>
 					</div></li>
-				<li class="navbar-item"><a class="nav-link" href="#">Bình
-						luận</a></li>
+				
 
 
 			</ul>
